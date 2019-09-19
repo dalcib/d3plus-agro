@@ -9,6 +9,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "d3plus-react": "^0.5.7",
     "expo": "^34.0.1",
     "react": "16.8.3",
     "react-dom": "^16.8.6",
@@ -42,8 +43,7 @@
   },
   "eslintConfig": {
     "extends": [
-      "react-app",
-      "universe"
+      "react-app"
     ]
   }
 }
